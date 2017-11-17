@@ -26,7 +26,6 @@
 hs_err_pid*
 .settings/org.eclipse.wst.common.project.facet.core.xml
 .classpath
-.project
 target/classes/application.properties
 target/classes/META-INF/MANIFEST.MF
 target/classes/META-INF/maven/com.example/SymetricEncryptSample/pom.xml
